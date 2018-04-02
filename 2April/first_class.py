@@ -1,5 +1,5 @@
 
-
+#Write code to display and count the factors of a number.
 def factor_print():
 	print "Enter the number to check factors of"
 	x = int(raw_input())
@@ -10,6 +10,7 @@ def factor_print():
 
 factor_print()
 
+#Write a program that will right-align text into 3 columns of data.
 def align_right():
 	word=[20, 30, 40]
 	print "Enter the right-align width"
